@@ -1,0 +1,21 @@
+/* TODO: Css Naming convention : page name with _ and then whatever name example: .home_title_container  */
+
+
+.delivery_picture{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.reservation_picture{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.home_page_container{
+    position: relative;
+    width: 400px;
+}

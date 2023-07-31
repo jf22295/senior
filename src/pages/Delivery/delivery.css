@@ -1,0 +1,22 @@
+.container{
+    display: flex;
+    align-items: center;
+    align-content: flex-start;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.avatar{
+    height: 400px;
+    width: 400px;
+}
+
+.restaurant_pic{
+    padding: 20px;   
+    height: 300px;
+    width: 300px;
+}
+
+.restaurant_product{
+    padding: 20px;
+}
